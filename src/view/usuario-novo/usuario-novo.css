@@ -1,0 +1,17 @@
+.form-cadastro{
+    width: 100%;
+    height: calc(100vh - 56px);
+    padding: 15%;
+}
+.form-login input{
+    width: 275px;
+}
+.btn-cadastro{
+    background-color: #614ea6;
+    color: white;
+    width: 275px;
+}
+.btn-cadastro:hover{
+    background-color: #f21667;
+    color: white;
+}

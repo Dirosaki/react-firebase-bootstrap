@@ -1,0 +1,13 @@
+.form-login input{
+    width: 275px;
+}
+.btn-enviar{
+    background-color: #614ea6;
+    color: white;
+    width: 275px;
+    margin: 0 auto;
+}
+.btn-enviar:hover{
+    background-color: #f21667;
+    color: white;
+}
